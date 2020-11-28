@@ -1,4 +1,7 @@
 console.log("hello everyone");
+function themNguoiDung(){
+    console.log("dpnguyen2 themNguoiDung")
+}
 // Biến
 // String 
 var username = "hello word";
